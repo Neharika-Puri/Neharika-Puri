@@ -2,7 +2,7 @@
 
 👋 Hey, Techie!!
 
- Full-Stack Developer 💻|  Web Enthusiast 🌐 | AI Enthusiast 🤖 
+I'm a Full-Stack Developer 💻|  Web Enthusiast 🌐 | AI Enthusiast 🤖 
 
 📚  Lifelong learner, coding for creativity and solving problems.
 
