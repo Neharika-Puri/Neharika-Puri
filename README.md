@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Neharika-Puri/Neharika-Puri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hey, Techie!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Full-Stack Developer 💻|  Web Enthusiast 🌐 | AI Enthusiast 🤖 
+
+📚  Lifelong learner, coding for creativity and solving problems.
+
+🔧 Tech Stack:
+   - 💻 JavaScript | Python | Java
+   - 🌐 HTML | CSS | React
+   - 📦 Django 
+   - 🛢️ MongoDB | PostgreSQL | MySQL
+   - 🔍 Machine Learning | AI
+
+🌟 Open source contributor and GitHub enthusiast.
+
+💡 Building the future one line of code at a time. Let's connect and collaborate! 🚀
